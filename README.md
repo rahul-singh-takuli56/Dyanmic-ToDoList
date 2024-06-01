@@ -25,7 +25,7 @@ To run this application locally, follow these steps:
 4. **Running the Application**
 
    ```
-   npm start
+   npm run dev
    ```
 
 ```
